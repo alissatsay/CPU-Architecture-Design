@@ -29,7 +29,7 @@ The instruction word is 16 bits, distributed as follows:
 I/R-type \<1bit\> opcode \<3bits\> rs \<4bits\> rt \<4bits\> rd \<4bits\>  
 **It has the following individual parts:**  
 **8-bit ALU**  
-**![8-bitALU][assets/image1]**  
+**![8-bitALU][assets/image1.png]**  
 A simple 8-bit ALU, which can perform add (00), and (01), or (10), and sub (11) operations.   
 **16x8 Bit Register File**  
 **![][assets/image2]**  
